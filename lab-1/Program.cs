@@ -20,6 +20,7 @@
             finally
             {
                 Console.WriteLine("Program completed.");
+                Console.ReadLine();
             }
         }
 
@@ -107,7 +108,7 @@
             {
                 Console.WriteLine("Divide by zero error.");
                 return 0;
-                //ffffffff
+              
             }
         }
     }
